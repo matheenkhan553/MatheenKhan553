@@ -21,4 +21,4 @@ I turn raw data into clear dashboards and business insights. I completed the **E
 - **[Healthcare Analytics Dashboards](https://github.com/matheenkhan553/microcare-healthcare-analytics-powerbi)**: Power BI dashboards for appointments and patient demographics, built during my Microcare Academy internship.
 
 ## 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/matheen-khan-13483435)
+[LinkedIn](www.linkedin.com/in/matheen-khan-134834359)
