@@ -1,6 +1,6 @@
 # Hi, I'm Matheen Ahmed Khan 👋
 
-**Aspiring Data Analyst** | B.Tech ECE graduate | Kadapa, Andhra Pradesh, India
+**Aspiring Data Analyst** | B.Tech ECE graduate | Andhra Pradesh, India
 
 I turn raw data into clear dashboards and business insights. I completed the **ExcelR Data Analytics program** and a **healthcare analytics internship at Microcare Academy**, working with sales, e-commerce and healthcare data.
 
