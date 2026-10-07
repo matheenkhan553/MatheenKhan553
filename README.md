@@ -22,4 +22,4 @@ I turn raw data into clear dashboards and business insights. I completed the **E
 
 ## 📫 Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/matheen-khan-13483435)
+[LinkedIn](https://www.linkedin.com/in/matheen-khan-134834359)
